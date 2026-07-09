@@ -33,7 +33,7 @@ export default function About() {
 
         <motion.div variants={fade} transition={{ duration: 0.5 }} className="space-y-5 text-muted leading-relaxed mb-24">
           <p>
-            I am a <strong className="text-foreground">Full Stack Developer, App Developer, and AI-powered engineer</strong> with a strong focus on building production-quality software. Currently in my 4th year of Computer Science & Engineering at Alva&apos;s Institute of Engineering and Technology (CGPA: <strong className="text-foreground">8.9/10</strong>), I have accumulated hands-on experience through real client projects, internships, and academic research.
+            I am a <strong className="text-foreground">Full Stack Developer, App Developer, and AI-powered engineer</strong> with a strong focus on building production-quality software. With a B.E. in Computer Science & Engineering from Alva&apos;s Institute of Engineering and Technology (CGPA: <strong className="text-foreground">8.9/10</strong>), I have accumulated hands-on experience through real client projects, internships, and academic research.
           </p>
           <p>
             My expertise spans the full development lifecycle — from designing user interfaces in Figma to implementing complex backend architectures with <strong className="text-foreground">Node.js, PostgreSQL, and Firebase</strong>. On the frontend, I work extensively with <strong className="text-foreground">React, Next.js, and Tailwind CSS</strong> for web, and <strong className="text-foreground">Flutter & Dart</strong> for cross-platform mobile apps.

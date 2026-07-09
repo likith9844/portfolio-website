@@ -53,7 +53,7 @@ export default function Home() {
 
               <motion.p variants={fade} transition={{ duration: 0.5 }}
                 className="mt-6 text-muted max-w-xl leading-relaxed">
-                I build production-ready web & mobile applications using React, Next.js, Flutter, and Node.js — and I leverage AI tools and prompt engineering to accelerate development workflows. Currently a 4th-year CSE student at Alva&apos;s Institute of Engineering with hands-on client project experience.
+                I build production-ready web & mobile applications using React, Next.js, Flutter, and Node.js — and I leverage AI tools and prompt engineering to accelerate development workflows. I hold a B.E. in Computer Science & Engineering from Alva&apos;s Institute of Engineering and Technology with hands-on client project experience.
               </motion.p>
 
               <motion.div variants={fade} transition={{ duration: 0.5 }} className="mt-10 flex flex-wrap gap-4">
